@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/10 08:48:34.000.713,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/15 08:29:58.000.859,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/05/15 08:45:47.000.861,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/06/02 11:33:22.000.197,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/22 16:21:21.000.285,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/26 14:29:29.000.683,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/26 14:34:10.000.716,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/27 10:22:58.000.584,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/04/05 16:23:14.000.815,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/04/09 10:02:12.000.434,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/04/09 10:02:43.000.059,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmekspedisi.dfm</Transaction>
+    <Transaction>2018/04/09 10:02:43.000.059,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmekspedisi.pas</Transaction>
+    <Transaction>2018/04/09 10:02:48.000.101,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\expedisi.dproj</Transaction>
+    <Transaction>2018/04/09 16:04:40.000.483,=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmsupF.pas</Transaction>
+    <Transaction>2018/04/23 10:32:37.000.565,=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\Unit1.pas</Transaction>
+    <Transaction>2018/04/23 10:32:50.000.520,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEks.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\Unit1.pas</Transaction>
+    <Transaction>2018/04/23 10:32:50.000.520,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEks.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\Unit1.dfm</Transaction>
+    <Transaction>2018/04/23 10:49:20.000.228,=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmbhnn.pas</Transaction>
+    <Transaction>2018/04/25 08:52:47.000.491,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmbhnn.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNew.dfm</Transaction>
+    <Transaction>2018/04/25 08:52:47.000.491,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmbhnn.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNew.pas</Transaction>
+    <Transaction>2018/04/25 09:21:52.000.643,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEks.pas=</Transaction>
+    <Transaction>2018/09/07 09:15:26.000.250,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNov.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNew.pas</Transaction>
+    <Transaction>2018/09/07 09:15:26.000.250,C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNov.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNew.dfm</Transaction>
+    <Transaction>2018/09/07 09:17:26.000.689,=C:\Users\User\Documents\Embarcadero\Studio\Projects\expedisi\frmEkspedisiNew.pas</Transaction>
+    <Transaction>2020/07/20 08:50:56.000.512,C:\Users\User\Documents\Embarcadero\Studio\Projects\25 Juni 2020\expedisi\frmekspedisi.pas=</Transaction>
+    <Transaction>2020/07/20 08:52:57.000.861,C:\Users\User\Documents\Embarcadero\Studio\Projects\25 Juni 2020\expedisi\frmEkspedisiNew.pas=</Transaction>
+    <Transaction>2020/07/27 08:43:13.000.522,=C:\Users\User\Documents\Embarcadero\Studio\Projects\25 Juni 2020\expedisi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
